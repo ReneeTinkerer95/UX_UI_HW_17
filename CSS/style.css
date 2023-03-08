@@ -2,12 +2,18 @@
      vertical-align: top;
     }
    
-
+ .logo {
+    width: 23%;
+    padding: 1%;
+ }
+  
  .nav {
         overflow: hidden;
         background-color: #333;
+        width: 73%;
+        padding: 1%;
       }
-
+  
       .center {
         display: block;
         margin-left: auto;
